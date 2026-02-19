@@ -1,5 +1,5 @@
-name = "reyzartz-com"
-compatibility_date = "2026-02-19"
+name = "reyzartz"
+compatibility_date = "2026-02-20"
 pages_build_output_dir = "./dist"
 
 [site]
